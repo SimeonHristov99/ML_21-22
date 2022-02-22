@@ -1,3 +1,9 @@
+# Plan of attack
+
+- [ ] Play Kahoot :)
+- [ ] Set up Google Colaboratory
+- [ ] Complete `Week_01_Hello,_Python.ipynb`
+
 # For home
 
 ## Task 1
