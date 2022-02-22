@@ -3,6 +3,7 @@
 - [ ] Play Kahoot :)
 - [ ] Set up Google Colaboratory
 - [ ] Complete `Week_01_Hello,_Python.ipynb`
+- [ ] Submit your work on the `For home` section by sending an `.ipynb` file or a link to a GitHub repository with such a file to the email address: *s.e.hristov99@gmail.com*. **MAKE SURE TO PUT THE FOLLOWING SUBJECT**: [ML] *your faculty number* *your name*. For example: Subject: [ML] 12345 Simeon Hristov
 
 # For home
 
