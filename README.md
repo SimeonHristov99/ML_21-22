@@ -36,6 +36,6 @@
 - [The Guru of Machine Learning on Coursera](https://www.coursera.org/learn/machine-learning)
 - [But what are neural networks?](https://www.youtube.com/playlist?list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi)
   
-## Books
+### Books
 
 - [Most popular book on machine learning and deep learning](https://upload.houchangtech.com/pdf/Hands-on_Machine_Learning.pdf)
