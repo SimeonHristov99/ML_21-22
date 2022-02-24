@@ -88,7 +88,7 @@ to_smash(1)
 
 ## Task 5
 
-The boolean variables ketchup, mustard and onion represent whether a customer wants a particular topping on their hot dog. We want to implement a number of boolean functions that correspond to some yes-or-no questions about the customer's order. For example:
+The boolean variables ketchup, mustard and onion represent whether a customer wants a particular topping on their hot dog. We want to implement a number of boolean functions that correspond to some yes-or-no questions about the customer's order. For the next four functions, fill in the body to match the English description in the docstring.
 
 ```python
 def onionless(ketchup, mustard, onion):
@@ -96,8 +96,6 @@ def onionless(ketchup, mustard, onion):
     """
     pass
 ```
-
-For the next three functions, fill in the body to match the English description in the docstring.
 
 ```python
 def wants_all_toppings(ketchup, mustard, onion):
