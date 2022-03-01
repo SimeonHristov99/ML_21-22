@@ -1,5 +1,23 @@
 # Machine Learning and Data Mining, Summer 2021-2022
 
+## How to learn data science and machine learning?
+
+1. Programming. Learn Python.
+2. Basic Statistics. Take a look at the amazing YouTube channel in the `Maths` section.
+3. Databases. Learn SQL. Check out [mode.com](https://mode.com/sql-tutorial/).
+4. Exploratory Data Analysis. Learn how to work with NumPy, Pandas, Matplotlib, Seaborn.
+5. Machine Learning. Learn the various algorithms. Explore Scikit learn.
+6. Data scraping. Explore the [Beautiful soup](https://beautiful-soup-4.readthedocs.io/en/latest/) library.
+7. Study the niches: deep learning, nlp (natural language processing), cv (computer vision).
+8. Deployment. Explore Flask, Streamlit, Django.
+
+### Framework
+
+1. Learn just enough.
+2. Do a project. For example choose one from Kaggle.
+3. Iterate.
+4. Accountability. Show off your work on Github.
+
 ## Most important APIs
 
 - [Python](https://docs.python.org/3.10/tutorial/index.html)
