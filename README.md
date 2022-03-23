@@ -44,8 +44,8 @@
 
 - [The essence of linear algebra](https://www.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab)
 - [The essence of calculus](https://www.youtube.com/playlist?list=PLZHQObOWTQDMsr9K-rj53DwVRMYO3t5Yr)
-- [Statistics](https://www.youtube.com/channel/UC0jJ3YFePq8DdqeZ1eXPgww/videos)
-  - [Probability Distributions](https://www.youtube.com/watch?v=CfZa1daLjwo&list=PLaFfQroTgZnzbfK-Rie19FdV6diehETQy)
+- [Probability Distributions](https://www.youtube.com/watch?v=CfZa1daLjwo&list=PLaFfQroTgZnzbfK-Rie19FdV6diehETQy)
+  - [Statistics course](https://www.youtube.com/channel/UC0jJ3YFePq8DdqeZ1eXPgww/videos)
 
 ### Machine learning and Deep learning
 
