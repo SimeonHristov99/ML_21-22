@@ -1,0 +1,24 @@
+What do you understand by Machine learning?
+Difference between Machine Learning and Deep Learning.
+What is the meaning of Overfitting in Machine learning?
+What is PCA used for?
+Give two situations in which overfitting occurs.
+Give two ways to avoid overfitting.
+Difference between supervised and unsupervised learning.
+How is KNN different from k-means?
+What is ensemble learning?
+What is model selection?
+Why divide data into a training and testing sets?
+What are the common ways to deal with missing values?
+Give a definition for recall.
+What is bagging?
+When should we do dimensionality reduction?
+What does PCA stand for?
+Give a definition for the F1 score.
+Explain tree pruning.
+How to deal with categorical features?
+Give two ways to select important features from a dataset.
+Describe the machine learning process.
+How to deal with features that do not have a normal distribution?
+You perform fraud detection on a dataset. You have built a classifier model and achieved a performance score of 98.5%. Is this a good model?
+Why use decision trees over linear regression?
